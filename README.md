@@ -11,7 +11,7 @@ A simple CLI chatbot using LangGraph and LangChain OpenAI.
 
 ### 1) Clone the repo
 ```bash
-git clone <[your-repo-url](https://github.com/Subhaga2000/llm-chatbot.git)>
+git clone <https://github.com/Subhaga2000/llm-chatbot.git>
 cd llm-chatbot
 ```
 
